@@ -1,0 +1,76 @@
+body {
+
+    font-family: cursive;
+}
+
+
+
+
+
+
+.about {
+
+    width: 100%;
+    height: 300px;
+    background-color: white;
+
+
+
+
+}
+
+.about img {
+    margin-right: 20px;
+    width: 420px;
+    height: 250px;
+}
+
+.aboutContent {
+    width: calc(100%/2);
+    float: left;
+    font-size: 20px;
+
+}
+
+
+
+.aboutSection {
+    margin-top: -50px;
+    width: 100%;
+    height: 200px;
+    background-color: white;
+}
+
+.aboutSection div {
+    float: left;
+    margin-left: 100px;
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 21px 2px silver;
+    border: 2px solid palegoldenrod;
+
+
+}
+
+.car {
+    position: absolute;
+    right: 0;
+}
+
+.aboutSection span {
+    padding-left: 5px;
+    font-size: 60px;
+
+}
+
+
+
+
+
+
+
+
